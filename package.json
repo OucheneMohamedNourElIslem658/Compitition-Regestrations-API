@@ -2,6 +2,8 @@
   "dependencies": {
     "express": "^4.19.2",
     "firebase-admin": "^12.1.1",
-    "nodemailer": "^6.9.13"
+    "http": "^0.0.1-security",
+    "nodemailer": "^6.9.13",
+    "ws": "^8.17.1"
   }
 }
