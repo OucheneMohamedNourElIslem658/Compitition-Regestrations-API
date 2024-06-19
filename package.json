@@ -4,6 +4,7 @@
     "firebase-admin": "^12.1.1",
     "http": "^0.0.1-security",
     "nodemailer": "^6.9.13",
+    "socket.io": "^4.7.5",
     "ws": "^8.17.1"
   }
 }
