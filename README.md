@@ -1,5 +1,5 @@
 Compitition regestration api :
-  - This is an api built using firebase-admin sdk and firebase rest api with node js.
+  - API built using firebase-admin sdk and firebase rest api with node js.
   - It manages compitition regestration process.
   - It manages the participant's team choice and chosing : each one can create,join,send joining requests to other teams and each team leader can send requests to a participants to join his team.
   - It manages the also admin actions like : gettings users infos and credentials with the authority to crud a user and desable him , also he can accept teams and reject them and notify them by sending them emails.
